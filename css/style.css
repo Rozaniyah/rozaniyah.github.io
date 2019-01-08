@@ -1,18 +1,15 @@
 h1{
   text-align:center;
+  
 }
-
 body{
-  box-sizing:border-box;
   background:linear-gradient(blue,#001);
   font-family:sans-serif;
   text-align:center;
   height:100vh; 
   margin:0;
-  padding:20px;
   color:white;
 }
-
 a{
   border:1px solid white;
   padding:5px 10px;
@@ -20,12 +17,11 @@ a{
   text-decoration:none;
   color:white;
 }
-
 img{
   width:200px;
   height:200px;
   object-fit:cover;
   display:block;
-  margin: 0px auto;
+  margin: 20px auto;
   border-radius:50%;
 }
